@@ -1,0 +1,9 @@
+# Proyecto: LLMs / Tokenization
+# Requerimientos para ejecutar notebooks y ejemplos de embeddings
+python==3.11.13
+
+# Núcleo (orden alfabético)
+ipykernel>=6.29.0
+jupyter>=1.0.0
+torch==2.6.0
+transformers==4.51.1
